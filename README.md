@@ -1,2 +1,5 @@
 # hello-word
-Just another repo
+
+Hi Humans!
+
+I like Node.js and coffee.
